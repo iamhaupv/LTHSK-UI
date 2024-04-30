@@ -4,3 +4,5 @@
 <img src='https://i.imgur.com/u31fVn9.png'/>
 <h1>tuan1->Bai3</h1>
 <img src = 'https://i.imgur.com/1ND9qse.png'/>
+<h1>tuan2->Bai2ThaoTacTrenJList</h1>
+<img src ='https://i.imgur.com/sp6fGby.png'/>
